@@ -1,0 +1,15 @@
+C:\repos\Kroger\Kroger\bin\Debug\net6.0\Kroger.exe
+C:\repos\Kroger\Kroger\bin\Debug\net6.0\Kroger.deps.json
+C:\repos\Kroger\Kroger\bin\Debug\net6.0\Kroger.runtimeconfig.json
+C:\repos\Kroger\Kroger\bin\Debug\net6.0\Kroger.dll
+C:\repos\Kroger\Kroger\bin\Debug\net6.0\Kroger.pdb
+C:\repos\Kroger\Kroger\obj\Debug\net6.0\Kroger.csproj.AssemblyReference.cache
+C:\repos\Kroger\Kroger\obj\Debug\net6.0\Kroger.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Kroger\Kroger\obj\Debug\net6.0\Kroger.AssemblyInfoInputs.cache
+C:\repos\Kroger\Kroger\obj\Debug\net6.0\Kroger.AssemblyInfo.cs
+C:\repos\Kroger\Kroger\obj\Debug\net6.0\Kroger.csproj.CoreCompileInputs.cache
+C:\repos\Kroger\Kroger\obj\Debug\net6.0\Kroger.dll
+C:\repos\Kroger\Kroger\obj\Debug\net6.0\refint\Kroger.dll
+C:\repos\Kroger\Kroger\obj\Debug\net6.0\Kroger.pdb
+C:\repos\Kroger\Kroger\obj\Debug\net6.0\Kroger.genruntimeconfig.cache
+C:\repos\Kroger\Kroger\obj\Debug\net6.0\ref\Kroger.dll
